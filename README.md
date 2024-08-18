@@ -16,6 +16,7 @@ We will be following the structure of the NeetCode Roadmap, starting from the ba
 
 ## Contributors
 [Khia Chen](https://www.wongkhiachen.dev) - Contributor
+[Hao Jun](https://github.com/haojunsng) - Contributor
 
 ## Acknowledgements
 - Thanks to [NeetCode](https://neetcode.io) for creating an amazing roadmap to guide us through mastering coding concepts!
