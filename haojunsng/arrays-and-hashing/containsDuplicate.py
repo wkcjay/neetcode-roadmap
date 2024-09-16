@@ -1,3 +1,5 @@
+# Time: O(N)
+# Space: O(N)
 class Solution:
     def hasDuplicate(self, nums: List[int]) -> bool:
         tracker = set()
